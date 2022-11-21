@@ -1,5 +1,4 @@
 # react-native-android-dev
-Android Docker Image for React Native development
 
 Docker Dev Environment configuration for React Native development
 
