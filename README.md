@@ -1,7 +1,7 @@
 # react-native-android-dev
 Android Docker Image for React Native development
 
-This is a dev environment for **React Native** projects that includes:
+Docker Dev Environment configuration for React Native development
 
 * **Node.js** v16
 * **JAVA** v11
